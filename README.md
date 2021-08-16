@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mortezanamvar
 - 💞️ I’m looking to collaborate on text & impage processing
-- 📫 How to reach me trough https://business.uq.edu.au/profile/2479/morteza-namvar
+- 📫 https://business.uq.edu.au/profile/2479/morteza-namvar
 
 <!---
 mortezanamvar/mortezanamvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
